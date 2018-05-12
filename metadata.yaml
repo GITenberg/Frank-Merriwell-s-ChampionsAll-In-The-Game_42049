@@ -1,0 +1,37 @@
+_repo: Frank-Merriwell-s-ChampionsAll-In-The-Game_42049
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42049-rst/images/cover.jpg
+creator:
+  author:
+    agent_name: Standish, Burt L.
+    aliases:
+    - Wilder, William W. (William West)
+    - Patten, Gilbert
+    - Patten, William G. (William Gilbert)
+    - Patten, George William
+    - Wilder, William West
+    - Patten, William Gilbert
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '3848'
+    url: http://www.gutenberg.org/2009/agents/3848
+    wikipedia: http://en.wikipedia.org/wiki/Burt_L._Standish
+description: ''
+gutenberg_issued: '2013-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42049'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gambling -- Juvenile fiction'
+- !lcsh 'Merriwell, Frank (Fictitious character) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Sports stories'
+- !lcsh 'Boxing stories'
+title: Frank Merriwell's Champions; Or, All in the Game
+url: http://www.gutenberg.org/ebooks/42049
